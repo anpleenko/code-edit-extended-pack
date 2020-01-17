@@ -13,6 +13,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "icon": "icon.png",
   "extensionPack": [
     "britesnow.vscode-toggle-quotes",
     "awesomektvn.toggle-semicolon",
