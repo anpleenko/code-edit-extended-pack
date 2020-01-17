@@ -2,7 +2,7 @@
   "name": "code-edit-extended-pack",
   "displayName": "code edit extended pack",
   "description": "Code edit helpers",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -26,7 +26,8 @@
     "tyriar.sort-lines",
     "richie5um2.vscode-sort-json",
     "earshinov.filter-lines",
-    "wmaurer.change-case"
+    "wmaurer.change-case",
+    "metaseed.metago"
   ],
   "contributes": {
     "keybindings": [

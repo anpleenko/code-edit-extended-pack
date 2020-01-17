@@ -10,3 +10,4 @@ This pack contain these extension:
 - [Filter lines](https://marketplace.visualstudio.com/items?itemName=earshinov.filter-lines)
 - [Sort JSON](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - [Change case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
+- [Metago](https://marketplace.visualstudio.com/items?itemName=metaseed.metago)
