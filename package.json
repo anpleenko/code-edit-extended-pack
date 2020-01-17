@@ -1,0 +1,25 @@
+{
+  "name": "code-edit-extended-pack",
+  "displayName": "code edit extended pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/extension-repo"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "britesnow.vscode-toggle-quotes",
+    "awesomektvn.toggle-semicolon",
+    "hideoo.toggler",
+    "v4run.transpose",
+    "tyriar.sort-lines",
+    "richie5um2.vscode-sort-json",
+    "earshinov.filter-lines"
+  ]
+}
