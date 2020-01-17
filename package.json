@@ -2,7 +2,7 @@
   "name": "code-edit-extended-pack",
   "displayName": "code edit extended pack",
   "description": "Code edit helpers",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -27,5 +27,52 @@
     "richie5um2.vscode-sort-json",
     "earshinov.filter-lines",
     "wmaurer.change-case"
-  ]
+  ],
+  "contributes": {
+    "keybindings": [
+      {
+        "mac": "cmd+k cmd+t",
+        "key": "alt+k alt+t",
+        "command": "extension.changeCase.constant"
+      },
+      {
+        "mac": "cmd+k cmd+c",
+        "key": "alt+k alt+c",
+        "command": "extension.changeCase.camel"
+      },
+      {
+        "mac": "cmd+k cmd+p",
+        "key": "alt+k alt+p",
+        "command": "extension.changeCase.pascal"
+      },
+      {
+        "mac": "cmd+k cmd+h",
+        "key": "alt+k alt+h",
+        "command": "extension.changeCase.path"
+      },
+      {
+        "mac": "cmd+'",
+        "key": "ctrl+'",
+        "command": "editor.togglequotes"
+      },
+      {
+        "mac": "cmd+;",
+        "key": "alt+;",
+        "command": "extension.toggleSemicolon",
+        "when": "editorTextFocus"
+      },
+      {
+        "mac": "cmd+shift+;",
+        "key": "alt+shift+;",
+        "command": "extension.toggleColon",
+        "when": "editorTextFocus"
+      },
+      {
+        "mac": "cmd+,",
+        "key": "alt+,",
+        "command": "extension.toggleComma",
+        "when": "editorTextFocus"
+      }
+    ]
+  }
 }
