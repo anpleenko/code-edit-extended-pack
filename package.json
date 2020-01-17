@@ -22,6 +22,7 @@
     "v4run.transpose",
     "tyriar.sort-lines",
     "richie5um2.vscode-sort-json",
-    "earshinov.filter-lines"
+    "earshinov.filter-lines",
+    "wmaurer.change-case"
   ]
 }
