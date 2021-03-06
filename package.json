@@ -2,7 +2,7 @@
   "name": "code-edit-extended-pack",
   "displayName": "code edit extended pack",
   "description": "Code edit helpers",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -77,22 +77,22 @@
       {
         "mac": "alt+up",
         "key": "alt+up",
-        "command": "extension.metaGo.gotoEmptyLineUp"
+        "command": "metaGo.gotoEmptyLineUp"
       },
       {
         "mac": "alt+shift+up",
         "key": "alt+shift+up",
-        "command": "extension.metaGo.selectEmptyLineUp"
+        "command": "metaGo.selectEmptyLineUp"
       },
       {
         "mac": "alt+down",
         "key": "alt+down",
-        "command": "extension.metaGo.gotoEmptyLineDown"
+        "command": "metaGo.gotoEmptyLineDown"
       },
       {
         "mac": "alt+shift+down",
         "key": "alt+shift+down",
-        "command": "extension.metaGo.selectEmptyLineDown"
+        "command": "metaGo.selectEmptyLineDown"
       }
     ]
   }
