@@ -2,7 +2,7 @@
   "name": "code-edit-extended-pack",
   "displayName": "code edit extended pack",
   "description": "Code edit helpers",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.41.0"
   },
