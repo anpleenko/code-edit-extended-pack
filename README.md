@@ -1,6 +1,6 @@
 # README
 
-This pack contain these extension:
+This pack contains these extension:
     
 - [Toggle quotes](https://marketplace.visualstudio.com/items?itemName=britesnow.vscode-toggle-quotes)
 - [Toggle semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon)
